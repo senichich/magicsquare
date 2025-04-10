@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="greetingText" type="id" />
+    <item name="resultText" type="id" />
+    <item name="checkButton" type="id" />
+    <item name="gridLayout" type="id" />
+    <item name="startGameButton" type="id" />
+    <item name="levelInput" type="id" />
+    <item name="startButton" type="id" />
+</resources>
